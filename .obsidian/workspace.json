@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "dc216efd54a97b0f",
+        "id": "005d697d4bb01a50",
         "type": "tabs",
         "children": [
           {
-            "id": "c114cc2aba4b1912",
+            "id": "07127e33327a6112",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "07_Technology/Башни Дыхания.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Башни Дыхания"
+            }
+          },
+          {
+            "id": "5c34d0138c641354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Factions/Трибунал/Трибунал.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Трибунал"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Расколотая сфера/Государства/Элионет/Организации/Трибунал/Трибунал.md",
+                "file": "07_Technology/Башни Дыхания.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Трибунал"
+              "title": "Обратные ссылки для Башни Дыхания"
             }
           },
           {
@@ -109,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "07_Technology/Башни Дыхания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Башни Дыхания"
             }
           },
           {
@@ -151,20 +171,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03_Factions/Трибунал/Трибунал.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Трибунал"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,45 +198,45 @@
       "graph:Граф": false
     }
   },
-  "active": "c114cc2aba4b1912",
+  "active": "5c34d0138c641354",
   "lastOpenFiles": [
-    "00_Core/Расы/_Расы.md",
-    "00_Core/Расы/Люди.md",
-    "00_Core/Расы/Полурослики.md",
-    "00_Core/Расы/Эльфы.md",
-    "00_Core/Божества.md",
-    "00_Core/Климат Элионет.md",
-    "00_Core/Купол.md",
-    "00_Core/Система магии.md",
-    "06_Culture/Система Летоисчисления Элионет.md",
-    "02_Places/02_Море отвергнутых/Ночной Суд.md",
-    "Расколотая сфера/Государства/Элионет/Разные данные/Памятка по расам.md",
+    "Фрейна Холт.md",
+    "03_Factions/Трибунал/Трибунал.md",
+    "07_Technology/Башни Дыхания.md",
+    "07_Technology/Технологические открытия.md",
+    "03_Factions/Институты.md",
+    "03_Factions/Культ Червя.md",
+    "03_Factions/Племя Кривозубов.md",
+    "03_Factions/Синод.md",
+    "03_Factions/Храм Вороньего Гнезда.md",
+    "03_Factions/Элионет.md",
+    "03_Factions/Культисты Расколотой Сферы.md",
+    "03_Factions/Жгучая крапива.md",
+    "03_Factions/Трибунал/Реформит.md",
+    "03_Factions/Трибунал/Аурорит.md",
+    "02_Places/01_Вороньястепь/Равиния.md",
+    "02_Places/01_Вороньястепь/Синестра.md",
+    "02_Places/Море Отвергнутых.md",
+    "02_Places/Воронья Степь.md",
+    "02_Places/02_Море отвергнутых/Триб Ноктис.md",
+    "02_Places/02_Море отвергнутых/Ливия.md",
     "02_Places/02_Море отвергнутых/Волчьи кости.md",
     "02_Places/02_Море отвергнутых/Волчий Хребет.md",
-    "02_Places/02_Море отвергнутых/Ливия.md",
-    "02_Places/02_Море отвергнутых/Триб Ноктис.md",
-    "02_Places/Воронья Степь.md",
-    "99_Inbox/Интересные идеи.md",
-    "99_Inbox/Идеи для партии/Кампания - Оковы.md",
+    "99_Attachments/Города/Триб Ноктис.png",
+    "99_Attachments/Города/Равиния_цитадельОка.png",
+    "99_Attachments/Города/Равиния.png",
+    "99_Attachments/Города/0478d3fd-af10-400a-a4db-85f1691b5c00.png",
+    "99_Attachments/Города/5fbb6ecd-0a8c-4aa7-9fb2-1374e182cf11.png",
     "99_Inbox/Идеи для партии/Последняя исповедь судьи.md",
-    "99_Attachments/Персонажи/Трибунал/трибунал_паладин_1ранг.png",
-    "99_Attachments/Персонажи/Трибунал/трибунал_паладин_3ранг.png",
-    "06_Culture/Новая архитектура.md",
-    "05_People/Торрен Блейк.md",
-    "03_Factions/Храм Вороньего Гнезда.md",
-    "02_Places/Море Отвергнутых.md",
-    "07_Technology/Башни Дыхания.md",
-    "99_Attachments/Персонажи/Трибунал/трибунал_паладин_2ранг.png",
-    "03_Factions/Трибунал/Трибунал.md",
-    "99_Attachments/Персонажи/Трибунал/human_prist.png",
+    "99_Inbox/Идеи для партии/Кампания - Оковы.md",
     "99_Attachments/Персонажи/Трибунал/e4b0fb80-260c-41b3-808c-9ec424c0aff2.png",
-    "99_Attachments/Организации/реформиты.png",
-    "99_Attachments/Организации/трибунал.png",
-    "99_Attachments/Организации/расколотая_сфера.png",
-    "99_Attachments/Организации/зеленый_лист.png",
-    "99_Attachments/Карты/Путь доставки (триб ноктис - равиния).png",
+    "99_Attachments/Персонажи/Трибунал/ChatGPT Image May 30, 2026, 08_36_01 AM.png",
+    "99_Attachments/Персонажи/Трибунал/ChatGPT Image May 30, 2026, 08_35_36 AM.png",
+    "99_Attachments/Персонажи/Трибунал/ChatGPT Image May 30, 2026, 08_34_40 AM.png",
+    "99_Attachments/Персонажи/Трибунал/трибунал_паладин_3ранг.png",
+    "02_Places/02_Море отвергнутых/Ночной Суд.md",
+    "Суд последнего рассвета.md",
     "99_Attachments",
-    "03_Factions/Синод.md",
     "00_Core/Пантеон Ормр-Хейль",
     "99_Inbox",
     "90_References",
